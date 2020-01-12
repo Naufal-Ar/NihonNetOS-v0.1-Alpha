@@ -10,7 +10,15 @@ Apa itu NihonNetOS? NihonNetOS adalah salah satu distro linux turunan dari Xubun
 
 
 App list :
-- Coming soon..
+-NMAP
+-WIRESHARK
+-TCPDUMP
+-TRACE ROUTE
+-PUTTY
+-FILEZILA
+-NETCAT
+-AIRCRACK-NG 
+
 
 
 
