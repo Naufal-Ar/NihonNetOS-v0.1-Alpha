@@ -16,7 +16,7 @@ App list :
 
 
 Video :
-- Coming soon..
+- https://youtu.be/Yvj-qnOyBj0
 
 
 
